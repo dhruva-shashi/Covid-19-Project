@@ -7,7 +7,7 @@ Machine Learning models are trained to estimate the severity of Covid-19 patient
 - Click **[here](https://github.com/dhruva-shashi/Covid-19-Project/blob/master/Covid_19_Project.ipynb)** to view Python notebook
 - Click **[here](https://github.com/dhruva-shashi/Covid-19-Project/blob/master/Classification_model.sav?raw=true)** to download the classification model.
 - Click **[here](https://github.com/dhruva-shashi/Covid-19-Project/blob/master/Regression_model.sav?raw=true)** to download the regression model.
-- Click **[here](https://drive.google.com/file/d/1vl1kJFzC01NRZx9-42O_1e36NiJ6TuU-/view?usp=sharing)** to view the dataset.
+- Click **[here](https://drive.google.com/file/d/1vl1kJFzC01NRZx9-42O_1e36NiJ6TuU-/view?usp=sharing)** to download the dataset.
 
 ## Factors used for analysis
 
