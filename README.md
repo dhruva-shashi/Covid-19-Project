@@ -1,6 +1,6 @@
 # Severity Estimation of Covid-19 Patients using Machine Learning to Assist Hospital Bed Allocation
 
-Machine Learning models are trained to estimate the severity of Covid-19 patients and are used for determining whether a patient requires hospitalization or not.
+Machine Learning models are trained to estimate the severity of Covid-19 patients and the estimation is used for determining whether the patient requires hospitalization or not. The project aims at streamlining the bed allocation process for Covid-19 patients. Factors such as age, gender, symptoms and pre-existing comorbidities are taken into consideration and an estimation of severity is made. Presented the project in IEEE conferences and various hackathons organized by IEEE and student branches of various colleges.
 
 ## Links and Downloads
 
